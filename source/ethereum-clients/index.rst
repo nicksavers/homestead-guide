@@ -8,7 +8,7 @@ Ethereum Clients
    :maxdepth: 2
 
    choosing-a-client.rst
-   cpp-ethereum/index.rst
+   aleth/index.rst
    go-ethereum/index.rst
    pyethapp/index.rst
    ethereumjs-lib/index.rst
